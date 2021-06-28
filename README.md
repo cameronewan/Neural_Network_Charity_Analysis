@@ -18,6 +18,8 @@ How many neurons, layers, and activation functions did you select for your neura
 Were you able to achieve the target model performance?
 - After building our model we were not able to reach the 75% accuracy threshold, meaning that our model did not reach our target performance. 
 
+<img width="385" alt="Screen Shot 2021-06-27 at 10 20 02 PM" src="https://user-images.githubusercontent.com/75695931/123570338-00000680-d796-11eb-807d-66c7881d13f9.png">
 
+<img width="715" alt="Screen Shot 2021-06-27 at 10 19 56 PM" src="https://user-images.githubusercontent.com/75695931/123570339-00000680-d796-11eb-93f5-3db1e182e27a.png">
 
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
