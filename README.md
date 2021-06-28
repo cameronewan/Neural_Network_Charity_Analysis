@@ -22,4 +22,5 @@ Were you able to achieve the target model performance?
 
 <img width="715" alt="Screen Shot 2021-06-27 at 10 19 56 PM" src="https://user-images.githubusercontent.com/75695931/123570339-00000680-d796-11eb-93f5-3db1e182e27a.png">
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary:
+After doing what I could to try and improve the accuracy of the model I was not able to hit our target of 75%, so I might not suggest that the nonprofit trust my model entirely. That being said the model could give them a rough understanding of their past investments and grants so it is worthwile to consider. One angle that I did not consider, which could be a good way to improve the accuracy of the model is to run a random forest classifier on the data. Because the random forest classifier is not as strict and does not need to be tuned up as much it might lend itself more to our dataset due to the features and data we have in the csv. 
